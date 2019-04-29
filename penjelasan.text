@@ -1,0 +1,9 @@
+linked list adalah adalah sekumpulan elemen bertipe sama yang mempunyai ketururutan tertentu,yang setiap 
+elemennya terdiri dari 2 bagian linked list juga merupakan suatu cara untuk menyimpan data dengan struktur 
+sehingga dapat secara otomatis menciptakan suatu tempat baru untuk menyimpan data yang diperlukan.
+
+sirkular = memiliki pointer next yang akan menunjukkan diri sendiri sehingga berputar,sedangkan linear tidak beputar
+
+perbedaan double dan single:
+memiliki satu variable pointer saja,sedangkan double memiliki dua variable
+yang menunjukk ke node selanjutnya dan node sebelumnya.
